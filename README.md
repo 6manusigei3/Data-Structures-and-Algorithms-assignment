@@ -42,8 +42,8 @@ To demonstrate the classification of data structures and their applications usin
 - Searching (Linear Search)
 
 ## Project Structure
-- `code/` contains all Python implementations
-- `research/` contains applications, reasons, and system usage
+- `code/` contains all Python implementations.
+- `research/` contains applications, reasons, and system usage.
 
 ## How to Run
 Open any file in the `code` folder and run:
